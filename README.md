@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+**Pixel – Code & Quiet**
+
+Beginner in coding and Cyber-security. I have some experience with Python, C++, C, Arduino, and Linux systems.
+
+- 🌱 Currently learning Python and Kali Linux  
+- 🤔 Looking for guidance on the best way to learn these topics  
+- 📫 Reach me at: ammar.orabi.js@gmail.com
 <!--
 **PixelByte77/PixelByte77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
